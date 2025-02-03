@@ -19,7 +19,7 @@ I'm a developer/sysadmin from Portugal, passionate about Open Source, coding and
 
 ### 👯 I’m looking to collaborate on ...
 
-I'm currently looking to collaborate an interesting Open Source project.
+I'm currently looking to collaborate on an interesting Open Source project.
 Due to my interest in music/audio, I've been paying attention to Jellyfin and some other related projects.
 
 But let me know if you need an extra brain on your project!!
@@ -27,7 +27,7 @@ But let me know if you need an extra brain on your project!!
 ### 🌱 I’m currently learning ...
 
 There's always room for some more knowledge.
-Here are some of the items I'm always trying to improve:
+Here are some of the topics I'm always trying to learn/improve:
   - Linux (Debian/Ubuntu and RHEL/Fedora)
   - Docker
   - K8s
@@ -43,4 +43,6 @@ Here are some of the items I'm always trying to improve:
 
 ### ⚡ Fun fact:
 
-I'm a Metalhead (Heavy Metal music fan) :metal:
+I'm a Metalhead (Heavy Metal music fan). :metal:
+
+I do CrossFit regularly. 💪
