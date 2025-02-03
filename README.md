@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a developer/sysadmin from Portugal, passionate about Open Source and music/audio.
+I'm a developer/sysadmin from Portugal, passionate about Open Source, coding and music/audio.
 
 ### 👯 I’m looking to collaborate on ...
 
 I'm currently looking to collaborate an interesting Open Source project.
-Due to my interest in music/audio, I've been paying attention to Jellyfin and some other projects related.
+Due to my interest in music/audio, I've been paying attention to Jellyfin and some other related projects.
 
-But let me know if you need an extra brain on some project of yours!!
+But let me know if you need an extra brain on your project!!
 
 ### 🌱 I’m currently learning ...
 
@@ -34,7 +34,13 @@ Here are some of the items I'm always trying to improve:
   - Ansible
   - Python
   - Bash scripting (Linux)
+  - Anything Linux related
+  - A.I.
+  - DevOps
   - Music/Audio
 
-### ⚡ Fun fact: 
+(Bigger list than what I anticipated! :sweat_smile:)
+
+### ⚡ Fun fact:
+
 I'm a Metalhead (Heavy Metal music fan) :metal:
