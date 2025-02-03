@@ -34,7 +34,7 @@ Here are some of the items I'm always trying to improve:
   - Ansible
   - Python
   - Bash scripting (Linux)
-  - Music
+  - Music/Audio
 
 ### ⚡ Fun fact: 
 I'm a Metalhead (Heavy Metal music fan) :metal:
