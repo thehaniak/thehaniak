@@ -20,29 +20,28 @@ I'm a developer/sysadmin from Portugal, passionate about Open Source, coding and
 ### 👯 I’m looking to collaborate on ...
 
 I'm currently looking to collaborate on an interesting Open Source project.
-Due to my interest in music/audio, I've been paying attention to Jellyfin and some other related projects.
+Due to my interest in music/audio, I'm currently helping to translate [Finamp](https://github.com/jmshrv/finamp) to Portuguese (Portugal).
 
-But let me know if you need an extra brain on your project!!
+But let me know if you need an extra brain to help on your project!!
 
 ### 🌱 I’m currently learning ...
 
 There's always room for some more knowledge.
 Here are some of the topics I'm always trying to learn/improve:
-  - Linux (Debian/Ubuntu and RHEL/Fedora)
-  - Docker
-  - K8s
-  - Ansible
-  - Python
-  - Bash scripting (Linux)
-  - Anything Linux related
-  - A.I.
-  - DevOps
-  - Music/Audio
+- Linux (mostly Debian/Ubuntu and RHEL/Fedora)
+- Anything Linux related
+- Docker
+- K8s
+- Ansible
+- Python
+- Bash scripting
+- A.I.
+- DevOps
+- Music/Audio
 
 (Bigger list than what I anticipated! :sweat_smile:)
 
-### ⚡ Fun fact:
+### ⚡ Fun facts:
 
-I'm a Metalhead (Heavy Metal music fan). :metal:
-
-I do CrossFit regularly. 💪
+- I'm a Metalhead (Heavy Metal music fan). :metal:
+- I do CrossFit regularly. 💪
