@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋 
 
 I'm a developer/sysadmin from Portugal, passionate about Open Source, coding and music/audio.
 
@@ -7,7 +7,7 @@ Due to my interest in music/audio, I'm currently helping to translate [Finamp](h
 
 But let me know if you need an extra brain to help on your project!!
 
-### 🌱 Allways learning, allways improving ...
+#### 🌱 Allways learning...
 
 There's always room for some more knowledge.
 Here are some of the topics I'm always trying to learn/improve:
@@ -24,7 +24,7 @@ Here are some of the topics I'm always trying to learn/improve:
 
 (Bigger list than what I anticipated! :sweat_smile:)
 
-### ⚡ Fun facts:
+#### ⚡ Fun facts:
 
 - I'm a Metalhead (Heavy Metal music fan). :metal:
 - I do CrossFit regularly. 💪
